@@ -1,0 +1,19 @@
+{
+  "name": "geni-tests",
+  "version": "1.0.0",
+  "description": "teaching geni and itay class about unit-testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabashani/geni-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabashani/geni-tests/issues"
+  },
+  "homepage": "https://github.com/rabashani/geni-tests#readme"
+}
